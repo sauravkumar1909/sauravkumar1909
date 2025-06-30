@@ -63,7 +63,7 @@
   <a href="mailto:kumar1909saurav@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Sauravkumar1909-dev">
+  <a href="https://github.com/Sauravkumar1909">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
 </p>
