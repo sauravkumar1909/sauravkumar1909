@@ -32,7 +32,7 @@
 - RAG Applications
 - LangChain
 - LLMs
-- FastAPI
+
 
 🚀 Currently Building
 
@@ -40,16 +40,10 @@
 - AI Powered Applications
 - Full Stack MERN Projects
 
-🌱 Learning
-
-- System Design
-- Agentic AI
-- AWS
-- Docker
 
 💬 Ask me about
 
-React • Node.js • Express • Python • MongoDB • LangChain • FastAPI • C++ • DSA
+React • Node.js • Express • Python • MongoDB • LangChain • C++ • DSA
 
 📫 Reach me
 
@@ -98,7 +92,7 @@ React • Node.js • Express • Python • MongoDB • LangChain • FastAPI �
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
@@ -129,7 +123,7 @@ React • Node.js • Express • Python • MongoDB • LangChain • FastAPI �
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </p>
 
