@@ -1,79 +1,206 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
-<h3 align="center">  A passionate Frontend Developer | Problem Solver | Tech Enthusiast 🚀</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | Generative AI Engineer | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+React+Enthusiast;Problem+Solver+in+C%2B%2B+%7C+DSA+Lover;Bringing+Ideas+to+Life+with+Code!" alt="Typing SVG" />
-</p>
-
- 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sauravkumar1909&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Saurav's Profile Views" />
-</p>
-
-
-
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on: **Cloning real-world UI/UX like Razorpay & Zomato**
-- 🌱 I’m improving my skills in **React.js, Tailwind CSS, DSA (C++)**
-- 💬 Ask me about: **JavaScript, React, C++, Python, Git & GitHub**
-- 📫 How to reach me: **kumar1909saurav@gmail.com**
-- ⚡ Fun fact: I debug with *chai and chill* 🍵
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,python,git,github,vscode" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Generative+AI+Engineer;Python+%7C+React+%7C+Node.js;Building+AI+Powered+Applications;Open+Source+Learner;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-### 💼 My Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧾 **Razorpay Landing Page Clone** | Pixel-perfect responsive clone with animations | HTML, Tailwind CSS |
-| 🎮 **Tic-Tac-Toe Game** | Classic game with smart logic | HTML, CSS, JavaScript |
-| 🍔 **Zomato UI Clone** | Fully responsive food delivery front page | HTML, Tailwind CSS, JS |
-| 🧠 **More coming soon...** | Stay tuned for fresh projects! | 🚀 |
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sauravkumar1909&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sauravkumar1909&theme=tokyonight" width="48%" />
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=Sauravkumar1909&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
+<img src="https://img.shields.io/github/followers/Sauravkumar1909?style=for-the-badge"/>
 
+<img src="https://img.shields.io/github/stars/Sauravkumar1909?style=for-the-badge"/>
 
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saurav-kumar-51b132332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kumar1909saurav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sauravkumar1909">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
 
-<!-- Add animations or GIFs -->
+# 💫 About Me
+
+💻 Full Stack Developer passionate about building scalable web applications and AI-powered solutions.
+
+🤖 Currently exploring
+
+- Generative AI
+- RAG Applications
+- LangChain
+- LLMs
+- FastAPI
+
+🚀 Currently Building
+
+- GraphRAG using Neo4j + Pinecone + Gemini
+- AI Powered Applications
+- Full Stack MERN Projects
+
+🌱 Learning
+
+- System Design
+- Agentic AI
+- AWS
+- Docker
+
+💬 Ask me about
+
+React • Node.js • Express • Python • MongoDB • LangChain • FastAPI • C++ • DSA
+
+📫 Reach me
+
+**kumar1909saurav@gmail.com**
+
+⚡ Fun Fact
+
+> I enjoy solving bugs almost as much as solving DSA problems 😄
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+
+<a href="https://www.linkedin.com/in/saurav-kumar-51b132332">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kumar1909saurav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sauravkumar1909">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-> *Code. Create. Conquer. Repeat.* 💻🔥
+---
 
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-005FFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 GraphRAG | AI-powered Graph RAG using Neo4j, Pinecone, Gemini & LangChain |
+| 🍔 Swiggy Clone | React + Redux Toolkit food ordering application |
+| 💳 Razorpay Clone | Responsive landing page using Tailwind CSS |
+| 🍽 Zomato Clone | Responsive frontend clone |
+| 🎮 Tic Tac Toe | JavaScript Game |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sauravkumar1909&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauravkumar1909&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sauravkumar1909&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sauravkumar1909&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sauravkumar1909&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# ✨ Quote
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+</p>
